@@ -116,4 +116,7 @@ body{
     padding-bottom:2em;
     padding-top:2em;
     text-align:center;
+    position:fixed;
+    bottom:0;
+    width:100%
 }
